@@ -103,6 +103,7 @@ The research provides a comprehensive framework for improving shipping route eff
 - **Email**: [nikitagautam647@gmail.com](mailto:nikitagautam647@gmail.com)
 - **GitHub Repository**: [https://github.com/nikitagautam647-cell/Nassau-Candy-Distributor](https://github.com/nikitagautam647-cell/Nassau-Candy-Distributor)
 - **Live Dashboard**: [https://appproject-fztzy8a96wsxcxtuh6x5hr.streamlit.app/](https://appproject-fztzy8a96wsxcxtuh6x5hr.streamlit.app/)
+- **Research Paper**: [View on Academia.edu](https://independent.academia.edu/NikitaGautam45)
 
 ## How to Access
 

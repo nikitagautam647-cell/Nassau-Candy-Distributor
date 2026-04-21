@@ -1,5 +1,7 @@
 # Nassau-Candy-Distributor
 
+**Research Paper:** [View on Academia.edu](https://independent.academia.edu/NikitaGautam45)
+
 ## Overview
 This project focuses on logistics intelligence and supply chain optimization for Nassau Candy Distributor, a national supplier of specialty confections and fine foods in the USA. Through comprehensive data analysis, we identify inefficiencies in shipping routes, regional bottlenecks, and ship mode performance to enhance delivery efficiency and business profitability.
 
